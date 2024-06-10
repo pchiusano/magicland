@@ -1,8 +1,8 @@
 # What did you learn from watching hours of Numberblocks? 😀
 
-## Q1
+## Q1 (1 point)
 
-How many `o` are there in this picture? How would you figure it out in 15 seconds or less, without counting every single `o`? (There's a trick... what is it?)
+How many `o` are there in this picture? How would you figure it out quickly, without counting every single `o`? (There's a trick... what is it?)
 
 ```
 o o o o o o o o o
@@ -17,9 +17,9 @@ o o o o o o o o o
 o o o o o o o o o
 ```
 
-## Q2
+## Q2 (1 point)
 
-Okay, look at you, you figured it out. Can you take that trick a little further to quickly figure out (in 20 seconds or less) how many `o` are in this picture? (There's a second trick)
+Can you take that trick a little further to quickly figure out (in 20 seconds or less) how many `o` are in this picture? (There's a second trick)
 
 ```
 o o o o o o o o o
@@ -34,7 +34,7 @@ o o o o o o o o o
 o o o o o o o o o
 ```
 
-## Q3
+## Q3 (1 point)
 
 What about this picture?
 
@@ -51,7 +51,7 @@ o o o o o o o o o
 o o o o o o o o o
 ```
 
-## Q4
+## Q4 (1 point)
 
 What's the next number in this sequence?
 
@@ -71,7 +71,7 @@ What's the next number in this sequence?
      o o o o
 ```
 
-## Q5 (hard)
+## Q5 (3 points)
 
 What's the next number in this sequence? (And what arrangement of `o` goes with it?)
 
@@ -105,4 +105,5 @@ o o o o
 o o o o
 ```
 
-What comes next in the pattern? Does the pattern keep going forever? Why?
+1 point: What comes next in the pattern? 
+10 points: Does the pattern keep going forever? Why?
