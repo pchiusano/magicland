@@ -85,7 +85,7 @@ What's the next number in this sequence? (And what arrangement of `o` goes with 
 10
 ```
 
-## Q6 (hard)
+## Q6 (10 points)
 
 Here's something interesting.
 
@@ -105,5 +105,5 @@ o o o o
 o o o o
 ```
 
-1 point: What comes next in the pattern? 
-10 points: Does the pattern keep going forever? Why?
+* What comes next in the pattern? (1 point)
+* Does the pattern keep going forever? If so, why? (9 points)
